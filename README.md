@@ -1,2 +1,2 @@
-# RPSGame
-The classical game replica.
+# C++projects
+1. Rock, paper and scissors : The classical game replica.
