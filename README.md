@@ -1,3 +1,4 @@
-# C++projects
-1. Rock, paper and scissors : The classical game replica.
-2. My first project.
+# Single Game player using python.
+Name:Guess the fruit..
+Features of Game:
+1. Difficulty level  2. Timer
